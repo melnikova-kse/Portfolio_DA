@@ -1,2 +1,10 @@
-# Portfolio_DA
-This is a repository to showcase skills, share projects and track my progress in Data Analytics.
+# Portfolio Data Analyst
+Этот репозиторий создан для демонстрации навыков, публикаций личных проектов и отслеживания моего прогресса в области анализа данных.
+## Содержание
+  - О себе
+  - Проекты
+  - Образование
+  - Дипломы
+  - Контакты
+
+[Link Text](#о-себе).
