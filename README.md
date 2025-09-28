@@ -29,5 +29,5 @@
 
 ### <a id="title3">Сегментация клиентской базы телекоммуникационной компании </a>
 
-**Ссылка на тетрадь** [`segment_telecom.ipynb`]
+**Ссылка на тетрадь** [`segment_telecom.ipynb`](https://github.com/melnikova-kse/Portfolio_DA/blob/main/segment_telecom.ipynb)
 
