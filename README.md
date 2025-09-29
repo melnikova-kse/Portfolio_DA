@@ -65,4 +65,7 @@
 
 ### <a id="title4">Анализ товарного ассортимента магазина </a>
 
-**Link:** [`product_range_analysis.ipynb`](https://github.com/melnikova-kse/Portfolio_DA/blob/main/segment_telecom.ipynb)
+**Link:** [`product_range_analysis.ipynb`](https://github.com/melnikova-kse/Portfolio_DA/blob/main/product_range_analysis.ipynb)
+
+**DataLens:** [`Visualization`](https://datalens.ru/35e246yurhggo?tab=A6)
+
